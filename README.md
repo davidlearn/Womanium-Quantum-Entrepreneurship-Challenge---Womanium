@@ -10,7 +10,7 @@ Womanium Quantum Hackathon 2022
 Womanium-Quantum-Entrepreneurship-Challenge---Womanium
 
 ### Elevator Pitch
-Mind GPA provides 24/7 individualized mental health resources and guide students to assess, get help, and improve their mental health and achieve their academic success with privacy protection, helps faculty and advisors to increase retention rates from class to class, advocates mental health and academic success through student groups supported by university at all levels.S
+Mind GPA provides 24/7 individualized mental health resources and guide students to assess, get help, and improve their mental health and achieve their academic success with privacy protection, helps faculty and advisors to increase retention rates from class to class, advocates mental health and academic success through student groups supported by university at all levels.
 
 
 ### Pitch Deck
