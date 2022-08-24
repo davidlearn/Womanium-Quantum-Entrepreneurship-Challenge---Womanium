@@ -6,7 +6,7 @@ Womanium Quantum Hackathon 2022
  - Yiping Wang, Discord: yiping#1999  Github: wyp7         Email: yipingwang2023@u.northwestern.edu
  - Jiaqi Guo,   Discord: Emrysguo#0793 Github: emrysguo     Email: jiaqiguo@andrew.cmu.edu
 
-### Team Jumpstart Presenter
+### Team Jumpstart Quantum Presenter
 David Liu
 
 ### Team Jumpstart Quantum Hackathon
